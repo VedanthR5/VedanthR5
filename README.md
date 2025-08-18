@@ -10,8 +10,9 @@ Passionate about **education**, **sustainability**, and **equity** through compu
 
 ---
 ### 🔭 Currently Working On  
+- An app where you can **type what you feel, land where you need**. AI enabled, MCP integrable, personal assistant portal.
 - A Canvas-based 3D portfolio site  
-- A Python tool to analyze education data  
+- A Python tool to analyze education data
 
 ### 🌱 I’m Learning  
 - Advanced React & Three.js  
