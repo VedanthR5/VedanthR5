@@ -22,36 +22,7 @@ PID   SYSTEM             DESCRIPTION
 002   Agent Portal       Personal assistant interface with tool use + MCP-style orchestration
 003   DBMS Engine        MVCC/OCC, B+ trees, buffer pools, and query execution internals
 004   Market Pipeline    Producer-consumer research system for BTC volatility drift
-005   Security Lab       OWASP-informed testing on common SaaS/API failure points
-```
-
----
-
-## stack trace
-
-```txt
-AI systems
-├── agent orchestration
-│   ├── planning
-│   ├── tool use
-│   ├── retrieval
-│   └── evaluation loops
-├── backend infrastructure
-│   ├── distributed systems
-│   ├── cloud-native services
-│   └── serverless workflows
-├── database internals
-│   ├── concurrency control
-│   ├── indexing
-│   └── buffer pool management
-├── security engineering
-│   ├── OWASP
-│   ├── auth/session bugs
-│   └── API attack surfaces
-└── market systems
-    ├── producer-consumer pipelines
-    ├── volatility modeling
-    └── data-driven trading research
+005   LLM Jailbreaking   OWASP-informed testing on common SaaS/API failure points
 ```
 
 ---
