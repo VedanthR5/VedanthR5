@@ -1,6 +1,6 @@
 # Hi there 👋 I’m Vedanth
 
-I’m a sophomore at [Carnegie Mellon University](https://www.cs.cmu.edu)  
+I’m a sophomore studying AI at [Carnegie Mellon University](https://www.cs.cmu.edu)  
 Passionate about **education**, **sustainability**, and **equity** through computing.
 
 ---
@@ -10,11 +10,14 @@ Passionate about **education**, **sustainability**, and **equity** through compu
 
 ---
 ### 🔭 Currently Working On  
-- An app where you can **type what you feel, land where you need**. AI enabled, MCP integrable, personal assistant portal.
-- A Canvas-based 3D portfolio site  
-- A Python tool to analyze education data
+- An app where you can **type what you feel, land where you need**. AI-enabled, MCP integrable, personal assistant portal.
+- A Python tool to analyze education data across the United States and pinpoint areas of growth, bottlenecks, and provide automatic painpoint relief.
+- An academic DBMS system implementing MVCC-OCC with B+ Tree Indexing and modern BPM optimizations inspired by Umbra, RocksDB, and Oracle
+- A Producer-Consumer model inspired the MoE trading model that capitalizes on Bitcoin vol drift in the Asian Markets.
 
 ### 🌱 I’m Learning  
-- Advanced React & Three.js  
-- Cloud-native backends with Serverless  
+- Agentic Orchestration Techniques in relation to query optimization, distributed concurrent architectures (GSD, etc.) 
+- Cloud-native backends with Serverless
+- Implementing SoA SLAM, segmentation, and camera-based vision techniques from CVPR 2025
+- Bug hunting through OWASP Frameworks on commonly reported SaaS hotspots API's
 ---
