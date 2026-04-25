@@ -1,23 +1,69 @@
-# Hi there 👋 I’m Vedanth
+# Vedanth Ramanathan
 
-I’m a sophomore studying AI at [Carnegie Mellon University](https://www.cs.cmu.edu)  
-Passionate about **education**, **sustainability**, and **equity** through computing.
+```console
+vedanth@cmu-ai:~$ ./profile
+
+name        Vedanth Ramanathan
+school      Carnegie Mellon University
+major       Artificial Intelligence
+focus       AI systems · civic tech · databases · security · quant infra
+status      building, testing, iterating
+```
+
+I build systems that turn messy real-world data into usable decisions — across civic data, agents, infrastructure, security, and markets.
 
 ---
-## 🏆 Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VedanthR5&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/VedanthR5)
+## active processes
+
+```console
+PID   SYSTEM             DESCRIPTION
+001   CivicDuty          Tracking bills, meetings, votes, and local civic signals
+002   Agent Portal       Personal assistant interface with tool use + MCP-style orchestration
+003   DBMS Engine        MVCC/OCC, B+ trees, buffer pools, and query execution internals
+004   Market Pipeline    Producer-consumer research system for BTC volatility drift
+005   Security Lab       OWASP-informed testing on common SaaS/API failure points
+```
 
 ---
-### 🔭 Currently Working On  
-- An app where you can **type what you feel, land where you need**. AI-enabled, MCP integrable, personal assistant portal.
-- A Python tool to analyze education data across the United States and pinpoint areas of growth, bottlenecks, and provide automatic painpoint relief.
-- An academic DBMS system implementing MVCC-OCC with B+ Tree Indexing and modern BPM optimizations inspired by Umbra, RocksDB, and Oracle
-- A Producer-Consumer model inspired the MoE trading model that capitalizes on Bitcoin vol drift in the Asian Markets.
 
-### 🌱 I’m Learning  
-- Agentic Orchestration Techniques in relation to query optimization, distributed concurrent architectures (GSD, etc.) 
-- Cloud-native backends with Serverless
-- Implementing SoA SLAM, segmentation, and camera-based vision techniques from CVPR 2025
-- Bug hunting through OWASP Frameworks on commonly reported SaaS hotspots API's
+## stack trace
+
+```txt
+AI systems
+├── agent orchestration
+│   ├── planning
+│   ├── tool use
+│   ├── retrieval
+│   └── evaluation loops
+├── backend infrastructure
+│   ├── distributed systems
+│   ├── cloud-native services
+│   └── serverless workflows
+├── database internals
+│   ├── concurrency control
+│   ├── indexing
+│   └── buffer pool management
+├── security engineering
+│   ├── OWASP
+│   ├── auth/session bugs
+│   └── API attack surfaces
+└── market systems
+    ├── producer-consumer pipelines
+    ├── volatility modeling
+    └── data-driven trading research
+```
+
 ---
+
+## current threads
+
+```console
+learning    agentic workflows · DBMS internals · API security · vision systems
+building    CivicDuty · assistant portal · academic DBMS · market-data pipelines
+reading     systems papers · security writeups · market microstructure notes
+debugging   brittle abstractions, hidden bottlenecks, and suspiciously green tests
+```
+
+---
+
